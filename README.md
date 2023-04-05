@@ -17,3 +17,7 @@ py manage.py migrate
 
 6. Run the server to test the app
 py manage.py runserver
+
+7. The endpoint to test the api's are
+http://localhost:8000/api/employee/
+http://localhost:8000/api/employee/pk/
